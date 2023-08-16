@@ -1,1 +1,11 @@
+button{
+    background-color: brown;
+    color:white;
+    font-weight:bold;
 
+}
+.model-overlay{
+    border:2px solid grey;
+    background-color: aquamarine;
+    
+}
